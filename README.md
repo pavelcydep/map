@@ -1,4 +1,4 @@
-![alt text](top3.png)
+![alt text](image.png)
 # map
 
 Тестовое задание: тема: Яндекс.Карты
